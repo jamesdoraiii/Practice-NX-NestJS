@@ -1,0 +1,18 @@
+.watchCard {
+  width: 18rem;
+  display: inline-block;
+  margin: 20px;
+}
+
+.watchImage {
+  width: 100%;
+  height: auto;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.btn {
+  width: 100%;
+}
